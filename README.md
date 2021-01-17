@@ -1,7 +1,7 @@
-# MarsRovers
-Mars Rovers project challenge
+# Mars Rovers
+Project Challenge
 
-# MARS ROVERS
+# Mars Rovers
 
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars.
 
